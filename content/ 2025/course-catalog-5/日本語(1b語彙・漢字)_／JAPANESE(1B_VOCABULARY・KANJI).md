@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 1
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 In this course, students will learn to read and write Kanji letters and vocabularies used in daily life context. The goal of this class is that learners can be acquainted with Kanji letters and vocabularies well enough in A2 level.

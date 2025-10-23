@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 1
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 We will develop one of your most important English communication skills - presentations. We will focus on the skills you need to communicate in academic settings. Class time will be spent on speaking activities, creating, and giving presentations. It's fun.

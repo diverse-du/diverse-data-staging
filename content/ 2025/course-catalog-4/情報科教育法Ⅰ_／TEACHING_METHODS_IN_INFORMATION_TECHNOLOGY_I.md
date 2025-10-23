@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 2
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 情報科の基本的性格を明らかにするとともに、普通教科並びに専門教科の目標と内容を理解し、具体的な内容に関して教材作成を学ぶ。

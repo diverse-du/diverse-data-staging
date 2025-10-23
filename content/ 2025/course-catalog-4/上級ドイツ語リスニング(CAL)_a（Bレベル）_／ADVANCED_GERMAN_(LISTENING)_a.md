@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 2
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 Ziel des Kurses ist es, geeignete Hörstrategien und -techniken zu entwickeln, um authentische Situationen im Alltag zu verstehen, auch wenn man nicht jedes Wort versteht. Dabei sollen die Studierenden nicht nur ihre Sprachfertigkeiten verbessern, sondern auch Interessantes über Deutschland und seine Menschen erfahren sowie über aktuelle Themen diskutieren. Die Themen und Formate der Hörtexte sind sehr unterschiedlich, vor allem aus den Bereichen Gesellschaft, Politik sowie Wissenschaft und orientieren sich an den Interessen und Sprachniveaus der Studierenden. Zu Ende des Kurses sollen die Studierenden in der Lage sein, sich den Inhalt eines selbst gewählten Hörtextes zu erschließen und anderen Studierenden mit Hilfe von eigenen Höraufgaben zu präsentieren.

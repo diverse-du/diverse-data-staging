@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 2
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 いわゆる法曹三者の仕事、とりわけ弁護士業務の内容について学ぶ。多岐にわたる弁護士の業務につき、進路決定の参考となるイメージを描けるよう理解を進める。

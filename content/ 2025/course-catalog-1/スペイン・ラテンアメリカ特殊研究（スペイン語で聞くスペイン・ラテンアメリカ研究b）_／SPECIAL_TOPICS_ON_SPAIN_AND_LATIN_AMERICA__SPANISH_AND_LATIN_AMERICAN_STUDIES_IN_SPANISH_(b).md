@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 2
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 Objetivo del curso: 1. La enseñanza de la cultura y la civilización españolas desde sus orígenes hasta la actualidad centrándose en los periodos históricos más destacados y en el legado artístico más relevante de cada época. 2. El aprendizaje de la terminología propia de esta disciplina. 3. Fomentar la capacidad para relacionar y aplicar los conocimientos teóricos adquiridos a otras manifestaciones culturales y artísticas. 4. Desarrollar aptitudes para comunicar ideas y expresarse de forma oral y escrita. Destinatarios: alumnos que posean interés en la cultura española y un conocimiento general de la lengua.

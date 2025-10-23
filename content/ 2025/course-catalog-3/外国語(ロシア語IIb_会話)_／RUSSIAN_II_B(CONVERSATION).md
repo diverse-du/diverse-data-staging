@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 1
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 「ロシア語 IIa 会話」の続きの授業です。 春学期の復習を行い、習熟度を深めた上で学習を進め、またあらたに具体的な状況に即した口語表現を身につけていきます。

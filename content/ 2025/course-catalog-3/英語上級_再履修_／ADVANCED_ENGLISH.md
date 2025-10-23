@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 2
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 □Content Alternative Global Issues In this course, students will examine issues connected to alternative media including topics on the environment and international conflicts. □Reading & Discussion ・read and evaluate texts in social sciences and humanities ・express one’s opinions about the course topic in a discussion constructively □Writing & Presentations ・write a research paper on the course topic with appropriate citation (700-1,000 words + bibliography) ・make a visually aided presentation of the paper Class is taught and participated in English.

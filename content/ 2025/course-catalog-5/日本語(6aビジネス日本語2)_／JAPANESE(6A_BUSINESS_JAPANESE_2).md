@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 1
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 ≪目的≫ 日本における就職活動への理解を深めること。また、自分自身について知ること。 ≪内容≫ ワークシートの作成やグループワークを中心に進めていく。企業について調査し発表する。

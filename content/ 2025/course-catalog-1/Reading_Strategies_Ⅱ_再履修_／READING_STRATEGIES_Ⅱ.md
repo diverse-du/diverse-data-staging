@@ -7,9 +7,10 @@ tags: []
 campus: ""
 credits: 1
 instructors: []
-license: "CC-BY-4.0"
+license: " "
 version:
   created_at: "2025-10-09T03:48:57Z"
   updated_at: "2025-10-09T03:48:57Z"
 ---
+
 This one-semester course is compulsory for first-year students. Overall Objectives 1．To increase their vocabulary 2．To review grammar 3．To develop basic reading skills & strategies 4．To understand how various texts are organized
