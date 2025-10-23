@@ -22,7 +22,7 @@ jobs:
       - name: Install minimal deps
         run: |
           npm init -y
-          npm install @supabase/supabase-js
+          npm install @supabase/supabase-js gray-matter
 
       - name: Sync to Supabase
         env:
