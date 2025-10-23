@@ -160,7 +160,7 @@ async function main() {
   if (genAI && chunkRows.length > 0) {
     console.log(`[sync-to-supabase] Generating embeddings for ${chunkRows.length} chunks using gemini-embedding-001`);
     const model = "gemini-embedding-001"; // see docs: https://ai.google.dev/gemini-api/docs/embeddings?hl=ja
-    const EMBEDDING_DIM = 768; // match table dimension
+    const EMBEDDING_DIM = 1536; // match table dimension
 
     // Process in batches to respect rate limits
     const embedBatch = async (items) => {
