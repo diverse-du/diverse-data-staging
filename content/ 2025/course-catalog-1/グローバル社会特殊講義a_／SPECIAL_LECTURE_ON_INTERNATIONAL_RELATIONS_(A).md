@@ -1,0 +1,15 @@
+---
+id: "course:23535"
+type: "course-catalog"
+title: "グローバル社会特殊講義a ／SPECIAL LECTURE ON INTERNATIONAL RELATIONS (A)"
+summary: "This course is designed for students to learn the history of international relations. Students will enhance the knowledg…"
+tags: []
+campus: ""
+credits: 2
+instructors: []
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-09T03:48:57Z"
+  updated_at: "2025-10-09T03:48:57Z"
+---
+This course is designed for students to learn the history of international relations. Students will enhance the knowledge and the understanding of international relations through the studies of key events that occurred from the 16th century to the end of World War II. By assessing these key events, the course attempts to discover the roots of current issues related to international relations. 本講義は、英語学科の教育課程の編成・実施の方針（CP）や学位授与方針（DP）が示す「英語の運用能力を養成し、英語圏の言語・文学・文化・社会・国際関係などを理解するための専門知識を身につけた、国際的視野に立つ教養人を育成する」ことを目的とする講義である。また、グローバル社会コースの科目として「グローバル社会に関する専門的知識を修得し、背景事情や諸課題について的確に理解、分析し、自らの見解を効果的に表現する能力を身に付け」ることを目的とする。

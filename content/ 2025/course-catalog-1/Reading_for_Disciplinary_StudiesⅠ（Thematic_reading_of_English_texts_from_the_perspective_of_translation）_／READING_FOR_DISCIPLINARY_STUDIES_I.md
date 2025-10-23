@@ -1,0 +1,15 @@
+---
+id: "course:20687"
+type: "course-catalog"
+title: "Reading for Disciplinary StudiesⅠ（Thematic reading of English texts from the perspective of translation） ／READING FOR DISCIPLINARY STUDIES I"
+summary: "本授業では「翻訳」の観点から英文をとらえ、表面的な読み方になりがちな英文読解の感覚を磨きます。英文は英文のままで理解できるようになることが理想ですが、その前段階においてはいったん日本語で確実に納得するプロセスが必要です。ところが大学受験まで…"
+tags: []
+campus: ""
+credits: 2
+instructors: []
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-09T03:48:57Z"
+  updated_at: "2025-10-09T03:48:57Z"
+---
+本授業では「翻訳」の観点から英文をとらえ、表面的な読み方になりがちな英文読解の感覚を磨きます。英文は英文のままで理解できるようになることが理想ですが、その前段階においてはいったん日本語で確実に納得するプロセスが必要です。ところが大学受験までの英語学習は和訳に重きが置かれ、生きた英語とは必ずしも一致しないことが少なくありません。この授業では、多様な英語表現に触れながら「英文和訳的な日本語」から「日本語らしい日本語」を通してテクストの本来の意味を理解し、英文を読む楽しさを深めることを目指します。
