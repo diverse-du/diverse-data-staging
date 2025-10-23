@@ -160,6 +160,7 @@ async function main() {
   if (genAI && chunkRows.length > 0) {
     console.log(`[sync-to-supabase] Generating embeddings for ${chunkRows.length} chunks using gemini-embedding-001`);
     const model = "gemini-embedding-001"; // see docs: https://ai.google.dev/gemini-api/docs/embeddings?hl=ja
+    const EMBEDDING_DIM = 768; // match table dimension
 
     // Process in batches to respect rate limits
     const embedBatch = async (items) => {
@@ -168,12 +169,17 @@ async function main() {
       const embedded = [];
       for (let i = 0; i < contents.length; i += 1) {
         try {
-          const resp = await genAI.models.embedContent({ model, contents: contents[i] });
-          const vector = resp?.embeddings?.[0]?.values || resp?.embedding?.values || [];
+          const resp = await genAI.models.embedContent({ model, contents: contents[i], outputDimensionality: EMBEDDING_DIM });
+          let vector = resp?.embeddings?.[0]?.values || resp?.embedding?.values || [];
+          // Ensure exact dimension
+          if (Array.isArray(vector)) {
+            if (vector.length > EMBEDDING_DIM) vector = vector.slice(0, EMBEDDING_DIM);
+            if (vector.length < EMBEDDING_DIM) vector = vector.concat(new Array(EMBEDDING_DIM - vector.length).fill(0));
+          }
           embedded.push(vector);
         } catch (e) {
           console.log(`[sync-to-supabase] embedding error: ${e instanceof Error ? e.message : String(e)}`);
-          embedded.push([]);
+          embedded.push(new Array(EMBEDDING_DIM).fill(0));
         }
         // small delay to reduce burst
         await new Promise((r) => setTimeout(r, 50));
