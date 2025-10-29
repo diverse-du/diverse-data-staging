@@ -1,0 +1,24 @@
+---
+id: "course:22514"
+type: "course-catalog"
+department: "nan"
+course_code: "22514"
+course_title: "グローバル社会特殊研究（地球環境と法b） ／GLOBAL ISSUES: GLOBAL ENVIRONMENT AND INTERNATIONAL LAW （b）"
+title: "グローバル社会特殊研究（地球環境と法b） ／GLOBAL ISSUES: GLOBAL ENVIRONMENT AND INTERNATIONAL LAW （b）"
+summary: "地球環境問題への取り組みとその法整備は、今日の国際社会の急務となっている。この講義では、国際的な環境問題および地球規模の環境問題に対処するための国際的な法のしくみの概要を理解する。 とりわけ秋学期においては、環境条約の内容、国家実行、国際会…"
+tags: []
+campus: ""
+term: ""
+period: "木2／Thu 2"
+course_type: "秋学期／Fall"
+credits: 2
+year: "2025年度／2025 Academic Year 秋学期／FALL SEMESTER"
+main_instructor: "一之瀬 高博"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0401/0401_22514_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+地球環境問題への取り組みとその法整備は、今日の国際社会の急務となっている。この講義では、国際的な環境問題および地球規模の環境問題に対処するための国際的な法のしくみの概要を理解する。 とりわけ秋学期においては、環境条約の内容、国家実行、国際会議や国際機関の動向などを理解し、国際社会における国際環境法の動態的構造を考察する。 この講義は、以上の内容を通じて、法学部の学位授与方針（DP）および教育課程の編成・実施方針（CP）の示す、多様な現代社会を対象とした法学の専門的知識、リーガル・マインドおよびグローバルな思考力を身につけることに資することを目的とする。また、法律学科の履修系統図の示す国際関係部門の専門科目、国際関係法学科履修系統図の示す国際関係法部門の専門科目および総合政策学科の履修系統図の示す法律部門の専門科目として、専門知識の修得、諸課題の理解、見解の提示ができるようになることを教育目標とする。 環境関連の進路を目指す諸君にとっては、この授業科目の内容は有益と考えられる。

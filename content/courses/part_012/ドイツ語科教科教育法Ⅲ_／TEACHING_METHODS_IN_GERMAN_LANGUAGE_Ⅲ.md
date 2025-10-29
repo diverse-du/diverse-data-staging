@@ -1,0 +1,24 @@
+---
+id: "course:24067"
+type: "course-catalog"
+department: "免許及び資格課程"
+course_code: "24067"
+course_title: "ドイツ語科教科教育法Ⅲ ／TEACHING METHODS IN GERMAN LANGUAGE Ⅲ"
+title: "ドイツ語科教科教育法Ⅲ ／TEACHING METHODS IN GERMAN LANGUAGE Ⅲ"
+summary: "この科目は、教職課程において各教科の指導法に位置付けられており、当該教科における教育目標、育成を目指す資質・能力を理解し、学習指導要領に示された当該教科の学習内容について背景となる学問領域と関連させて理解を深めるとともに、様々な学習指導理論…"
+tags: []
+campus: ""
+term: ""
+period: "木3／Thu 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "境 一三"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0902/0902_24067_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この科目は、教職課程において各教科の指導法に位置付けられており、当該教科における教育目標、育成を目指す資質・能力を理解し、学習指導要領に示された当該教科の学習内容について背景となる学問領域と関連させて理解を深めるとともに、様々な学習指導理論を踏まえて具体的な授業場面を想定した授業設計を行う方法を身に付けることを目的とする。 春学期には、教育における世界的な潮流であるコンピテンシー（資質・能力）論を取り上げ、それが日本の教育、とりわけ学習指導要領にどのような影響を与えているのかを考察する。また、資質・能力論を根底に据えた外国語教育はどのような姿を取るのかを概観し、自らもそれに基づいた授業を立案する。

@@ -1,0 +1,24 @@
+---
+id: "course:13034"
+type: "course-catalog"
+department: "外国語学部英語学科"
+course_code: "13034"
+course_title: "英語専門講読 Ⅰ(アメリカ文学:John Steinbeckの文学を読む) ／ADVANCED THEMATIC READING Ⅰ"
+title: "英語専門講読 Ⅰ(アメリカ文学:John Steinbeckの文学を読む) ／ADVANCED THEMATIC READING Ⅰ"
+summary: "この授業では、John Steinbeck の文学作品や関連資料の読解を通じてより高い英語力と必要な教養を育み、様々な視点からの作品読解を試みることで多角的に考える力を身につけ、より深く文学作品を味わうことができるようになることを目指します…"
+tags: []
+campus: ""
+term: ""
+period: "火3／Tue 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "金谷 優子"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0102/0102_13034_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この授業では、John Steinbeck の文学作品や関連資料の読解を通じてより高い英語力と必要な教養を育み、様々な視点からの作品読解を試みることで多角的に考える力を身につけ、より深く文学作品を味わうことができるようになることを目指します。 『怒りの葡萄』(The Grapes of Wrath, 1939)、『エデンの東』(The East of Eden, 1952)の著者であり、1962年にノーベル文学賞を受賞したJohn Steinbeck(1902-1968)は、20世紀のアメリカ、そしてアメリカ文学を語る際に忘れてはならない作家です。彼は上掲の二大作品の他、多様なジャンルにわたる数多くの作品を創作しましたが、本年は、大恐慌下の1930年代に生きるmigrant workers (季節労働者）について描いた『二十日鼠と人間』(Of Mice and Men,1937)を読解します。 毎回、ストーリー展開を把握しながら、個々の文章表現や技巧、作家の視点、作品の時代背景、作品のテーマ等にも注意を払って作品を精読し、文学作品の鑑賞をおこなうとともに、その活動を通じて多角的な視点を身につけることを目指します。また、作品読解の他に、作品の時代背景などについて書かれた様々な英語資料を読解し、その活動を通して英語の全般的な読解力を養うことも目指します。 更に時間が許せば、スタインベックの他の作品と比較したり、作品についての主要な評論も幾つか紹介し、読解を深めます。

@@ -1,0 +1,24 @@
+---
+id: "course:23918"
+type: "course-catalog"
+department: "経済学部"
+course_code: "23918"
+course_title: "専門英語a(経済史・経営史) ／ENGLISH FOR SPECIFIC PURPOSES(A)"
+title: "専門英語a(経済史・経営史) ／ENGLISH FOR SPECIFIC PURPOSES(A)"
+summary: "この授業は、日本の経済史・経営史を英語の文献で学ぶことにより、経済・経営に関する英語の読解力を高めると共に、外国人の研究者の目を通して日本を見ることにより、自らの日本に関する認識を相対化して理解を深めることを狙いとしている。さらに、英語で日…"
+tags: []
+campus: ""
+term: ""
+period: "月3／Mon 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "市原 博"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/02/02_23918_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この授業は、日本の経済史・経営史を英語の文献で学ぶことにより、経済・経営に関する英語の読解力を高めると共に、外国人の研究者の目を通して日本を見ることにより、自らの日本に関する認識を相対化して理解を深めることを狙いとしている。さらに、英語で日本を論じられるようになることも意図に含んでいる。 アメリカを代表する知日家であるハーバード大学ライシャワー研究所所長のAndrew Gordn教授の"A modern history of Japan : from Tokugawa times to the present "の経済史に関する部分を輪読し、経済成長に成功して来た日本経済がここ30年間停滞に陥ってしまった原因を考えたい。 受講生の関心に応じて、外国の経済史・経営史に関する文献を取り上げることもあり得る。 英語力の読解力の強化と日本経済に関する知識の獲得に重点を置き、経済に関する諸問題を英語で理解し、その内容を英語で的確に表現する能力の育成を目的とする。

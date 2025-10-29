@@ -1,0 +1,24 @@
+---
+id: "course:24723"
+type: "course-catalog"
+department: "nan"
+course_code: "24723"
+course_title: "総合科学特殊研究（からだの機能を測る） ／SPECIAL TOPICS ON INTEGRATED ARTS AND SCIENCES: EXPERIMENTS IN PHYSIOLOGY"
+title: "総合科学特殊研究（からだの機能を測る） ／SPECIAL TOPICS ON INTEGRATED ARTS AND SCIENCES: EXPERIMENTS IN PHYSIOLOGY"
+summary: "普段、何気なく生活している中では気づきませんが、私たちのからだは様々な環境・状況の変化に対して反応し、適応しています。今、メディアなどには健康に関する情報が溢れています。まずはもっとも身近な私たち自身のからだの中のことを知って、快適な生活に…"
+tags: []
+campus: ""
+term: ""
+period: "木3／Thu 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "依田 珠江"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0401/0401_24723_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+普段、何気なく生活している中では気づきませんが、私たちのからだは様々な環境・状況の変化に対して反応し、適応しています。今、メディアなどには健康に関する情報が溢れています。まずはもっとも身近な私たち自身のからだの中のことを知って、快適な生活について考える、工夫するきっかけを提供することが本講義の目的です。実験を行い、都度レポートを作成します。

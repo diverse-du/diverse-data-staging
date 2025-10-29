@@ -1,0 +1,24 @@
+---
+id: "course:21521"
+type: "course-catalog"
+department: "外国語学部ドイツ語学科"
+course_code: "21521"
+course_title: "テクスト研究（現代社会・歴史） a_歴史B ／TEXT STUDIES (GERMAN MODERN SOCIETY AND HISTORY) a"
+title: "テクスト研究（現代社会・歴史） a_歴史B ／TEXT STUDIES (GERMAN MODERN SOCIETY AND HISTORY) a"
+summary: "この授業ではドイツ語の専門書を読解することで、ドイツ語文献の読み方を学ぶとともに、様々な対象に対する歴史的なアプローチ方法や歴史学的な思考方法について学び、それを通じて歴史を対象とする専門領域に関する知識を習得するとともに、その知識を活用し…"
+tags: []
+campus: ""
+term: ""
+period: "金2／Fri 2"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "伊豆田 俊輔"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0101/0101_21521_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この授業ではドイツ語の専門書を読解することで、ドイツ語文献の読み方を学ぶとともに、様々な対象に対する歴史的なアプローチ方法や歴史学的な思考方法について学び、それを通じて歴史を対象とする専門領域に関する知識を習得するとともに、その知識を活用して論理的に論述・議論する能力を身につけます。 この授業のテーマは、「現代の東ドイツ問題」です。1990年からのドイツの東部では、ドイツ民主共和国という国家が消滅し、1600万人の住民たちがほとんど全員、「人生をやり直す」ことを強制されました。そして、現在のドイツの東部では、政治や経済構造が西側とは少し異なる社会が生まれつつあり、人々の間でも西側と異なるアイデンティティが生まれているかが議論されています。統一後のドイツでは何が起きたのでしょうか？当事者たちにはアイデンティティの変化があったのでしょうか、それとも、「東ドイツ・アイデンティティ」とは、西側の（＝外部の）人間が作り出してしまったものなのでしょうか？ 春学期はこうした問題を検討するために、①Detlev Brunner, Einheit und Transformation Deutschland in den 1990er Jahren, Stuttgart 2022と、②Dirk Oschmann, Der Osten: eine westdeutsche Erfindung, Berlin 2023を扱います。 春学期は原則として丁寧に読むこと＝精読を重視したいと思います。 ＊この授業は、外国語学部ドイツ語学科の学位授与方針（DP）ならびに教育課程の編成・実施方針（CP）が示す「修得された高度な語学能力を活かし、ドイツ語圏の社会・歴史の多様な専門領域に関する知識を体系的かつ横断的に修得」することを目指します。

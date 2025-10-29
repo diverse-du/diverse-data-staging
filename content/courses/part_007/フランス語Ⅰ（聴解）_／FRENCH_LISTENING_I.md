@@ -1,0 +1,24 @@
+---
+id: "course:21713"
+type: "course-catalog"
+department: "外国語学部フランス語学科"
+course_code: "21713"
+course_title: "フランス語Ⅰ（聴解） ／FRENCH LISTENING I"
+title: "フランス語Ⅰ（聴解） ／FRENCH LISTENING I"
+summary: "フランス語の発音・リズム、綴りと発音に関する基礎と、語彙・表現の基本を習得し、聴きとりに活用できるようにすることを目的とした授業である。本科目では語学４技能の中でもとくに「聞く」および「話す」ための基礎能力の涵養を目指す。"
+tags: []
+campus: ""
+term: ""
+period: "木2／Thu 2"
+course_type: "春学期／Spring"
+credits: 1
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "Ｂ．ソゼド／Bertrand SAUZEDDE"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0103/0103_21713_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+フランス語の発音・リズム、綴りと発音に関する基礎と、語彙・表現の基本を習得し、聴きとりに活用できるようにすることを目的とした授業である。本科目では語学４技能の中でもとくに「聞く」および「話す」ための基礎能力の涵養を目指す。

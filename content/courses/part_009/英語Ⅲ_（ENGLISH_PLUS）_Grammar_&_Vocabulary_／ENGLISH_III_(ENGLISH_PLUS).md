@@ -1,0 +1,24 @@
+---
+id: "course:31110"
+type: "course-catalog"
+department: "nan"
+course_code: "31110"
+course_title: "英語Ⅲ （ENGLISH PLUS）_Grammar & Vocabulary ／ENGLISH III (ENGLISH PLUS)"
+title: "英語Ⅲ （ENGLISH PLUS）_Grammar & Vocabulary ／ENGLISH III (ENGLISH PLUS)"
+summary: "このコースでは，英文法や語彙の学習を通して英文テキストを読んだり書いたりする際に求められる分析的・統合的スキルを身につけること並びに負荷容量やリーディング・スパンを拡大し，文脈に即した言語使用能力の内在化を行うことを目的とする．各授業で3項…"
+tags: []
+campus: ""
+term: ""
+period: "水3／Wed 3"
+course_type: "春学期／Spring"
+credits: 1
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "坂本 文子"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0401/0401_31110_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+このコースでは，英文法や語彙の学習を通して英文テキストを読んだり書いたりする際に求められる分析的・統合的スキルを身につけること並びに負荷容量やリーディング・スパンを拡大し，文脈に即した言語使用能力の内在化を行うことを目的とする．各授業で3項目ずつ（1項目あたり見開き2ページ）を扱う．事前課題として各項目の説明文を読み，指定された練習問題に解答することが課される．また，毎回の授業冒頭に復習の小テストがある．さらに学期末には総復習のテストがある．This class provides opportunities to develop students’ analytic and synthetic skills in processing and producing English texts in academic contexts. It is also intended to rebuild the students’ loading capability and expand the span of texts to be processed when their fundamental skills are not clearly registered. The goal of learning grammar and vocabulary lies in their use in actual contexts as ‘procedural knowledge’. The textbook as well as classroom activities we provide enables the learning to be creative and contextualised. There will be a short review quiz in the beginning of each class. There is also an examination at the end of the semester.

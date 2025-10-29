@@ -1,0 +1,24 @@
+---
+id: "course:25469"
+type: "course-catalog"
+department: "外国語学部交流文化学科"
+course_code: "25469"
+course_title: "オーストラリアの政治と外交 ／AUSTRALIA IN INTERNATIONAL AFFAIRS"
+title: "オーストラリアの政治と外交 ／AUSTRALIA IN INTERNATIONAL AFFAIRS"
+summary: "授業は講義形式で行う。この授業は以下の３点を目的としている。 １）多文化国家オーストラリアの歴史、政治，文化、経済、そして国際関係について基本的な知識を習得する ２）近年益々深化・拡大している日豪関係（特に政治分野）の歴史を振り返るとともに…"
+tags: []
+campus: ""
+term: ""
+period: "月2／Mon 2"
+course_type: "秋学期／Fall"
+credits: 2
+year: "2025年度／2025 Academic Year 秋学期／FALL SEMESTER"
+main_instructor: "永野 隆行"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0105/0105_25469_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+授業は講義形式で行う。この授業は以下の３点を目的としている。 １）多文化国家オーストラリアの歴史、政治，文化、経済、そして国際関係について基本的な知識を習得する ２）近年益々深化・拡大している日豪関係（特に政治分野）の歴史を振り返るとともに、将来の日豪関係について考える ３）以上で習得した基本的な知識に基づき、オーストラリアだけでなくインド太平洋地域の国際関係を分析、評価し、将来展望を考える能力を身につける。

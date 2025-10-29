@@ -1,0 +1,24 @@
+---
+id: "course:23904"
+type: "course-catalog"
+department: "経済学部"
+course_code: "23904"
+course_title: "専門英語a(環境・資源経済学) ／ENGLISH FOR SPECIFIC PURPOSES(A)"
+title: "専門英語a(環境・資源経済学) ／ENGLISH FOR SPECIFIC PURPOSES(A)"
+summary: "環境・エネルギー問題や環境経済学・資源経済学にかかわる英語文献や英文記事を中心的題材として，現代の資源・環境問題とその対策に関して学習する。これは，経済学部国際環境経済学科CPに掲げる「英語運用能力の養成」とともに「持続可能な社会の実現を目…"
+tags: []
+campus: ""
+term: ""
+period: "火3／Tue 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "浜本 光紹"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/02/02_23904_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+環境・エネルギー問題や環境経済学・資源経済学にかかわる英語文献や英文記事を中心的題材として，現代の資源・環境問題とその対策に関して学習する。これは，経済学部国際環境経済学科CPに掲げる「英語運用能力の養成」とともに「持続可能な社会の実現を目指して，地域社会や国際社会に貢献できる実践的な人材の育成」を目的とするものである。 この講義では，学生自身による訳出作業と事後の解説を通して内容に関する理解を深めるとともに，適宜，内容説明や要約作成なども行うことにより論理的思考力を養っていく。これは，経済学部国際環境経済学科DPに掲げる学位の裏付けとなる「能力」1および7の養成につながるものである。

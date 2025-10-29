@@ -1,0 +1,24 @@
+---
+id: "course:22346"
+type: "course-catalog"
+department: "経済学部経済学科"
+course_code: "22346"
+course_title: "日本社会史a(23以前) ／SOCIAL HISTORY OF JAPAN(A)"
+title: "日本社会史a(23以前) ／SOCIAL HISTORY OF JAPAN(A)"
+summary: "近現代の日本社会について、その歴史を学んでいきます。 社会の歴史＝社会史とは何でしょうか。実は社会史とは、人間の様々な活動が作り上げる歴史的現実の相対的な把握を目指して、総合的な視角から、人間や人間集団を全体的に捉えようとする歴史を指します…"
+tags: []
+campus: ""
+term: ""
+period: "木2／Thu 2"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "山本 裕"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0201/0201_22346_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+近現代の日本社会について、その歴史を学んでいきます。 社会の歴史＝社会史とは何でしょうか。実は社会史とは、人間の様々な活動が作り上げる歴史的現実の相対的な把握を目指して、総合的な視角から、人間や人間集団を全体的に捉えようとする歴史を指します。 日本社会で起きた様々な史実を、・何故 ・この時代に ・この場所で発生したのかについて考察していきます。 本科目では様々な歴史的事象の発生を、構造的に理解していくことを目的に置きます（ディプロマポリシー（DP）の、「1」に関する能力と関係する。カリキュラムポリシーにおける「学科専門科目」、「歴史」部門に該当する）。

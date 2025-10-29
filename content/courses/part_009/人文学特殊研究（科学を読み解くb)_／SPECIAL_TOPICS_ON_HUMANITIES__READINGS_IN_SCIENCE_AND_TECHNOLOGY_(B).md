@@ -1,0 +1,24 @@
+---
+id: "course:31186"
+type: "course-catalog"
+department: "nan"
+course_code: "31186"
+course_title: "人文学特殊研究（科学を読み解くb) ／SPECIAL TOPICS ON HUMANITIES: READINGS IN SCIENCE AND TECHNOLOGY (B)"
+title: "人文学特殊研究（科学を読み解くb) ／SPECIAL TOPICS ON HUMANITIES: READINGS IN SCIENCE AND TECHNOLOGY (B)"
+summary: "この授業では、『科学と宗教』という文献の読解を通じて、科学と宗教との関係について学ぶとともに、知識や常識に疑問をもって挑戦する批判的思考（critical thinking）によって、科学と宗教の両者についての考え方を深化させることを目的と…"
+tags: []
+campus: ""
+term: ""
+period: "水2／Wed 2"
+course_type: "秋学期／Fall"
+credits: 2
+year: "2025年度／2025 Academic Year 秋学期／FALL SEMESTER"
+main_instructor: "野澤 聡"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0401/0401_31186_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この授業では、『科学と宗教』という文献の読解を通じて、科学と宗教との関係について学ぶとともに、知識や常識に疑問をもって挑戦する批判的思考（critical thinking）によって、科学と宗教の両者についての考え方を深化させることを目的としている 科学と宗教はまったく別物として対立的に捉えられることが多い。だが、科学の歴史を見ると、科学と宗教はお互いに影響を及ぼし合ってきたことが分かる。また、現代の社会でも、科学と宗教との関わりが問題なる場面も少なくない。たとえば、ゲノム編集など生命を扱うある種の科学技術に対しては、「神の領域を侵す」という批判が根強い。『科学と宗教』は、ガリレオ裁判や進化論などの事例を取り上げて、科学と宗教の歴史的背景を分かりやすく説明しつつ、現代における科学と宗教との関係を探求している。 ChatGPTなどの生成AIの普及によって、文献をきちんと読まなくても、知識が簡単に得られると思われがちだが、そうではない。生成AIを使いこなすためにも、文献を精密かつ批判的に読み解く読解力の必要性は、ますます高まっているのである。 授業では、『科学と宗教』の読解を軸としつつ、そこで扱われている事柄について、参加者間のディスカッションを通じて各自の理解を深めることによって、知識や常識に挑戦する批判的思考を働かせて、科学と宗教の両者についての考え方を深化させること目指す。

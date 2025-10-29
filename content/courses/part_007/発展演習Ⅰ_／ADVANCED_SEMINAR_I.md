@@ -1,0 +1,24 @@
+---
+id: "course:15179"
+type: "course-catalog"
+department: "外国語学部フランス語学科"
+course_code: "15179"
+course_title: "発展演習Ⅰ ／ADVANCED SEMINAR I"
+title: "発展演習Ⅰ ／ADVANCED SEMINAR I"
+summary: "この授業はフランス語圏の研究に取り組んでいくための基礎知識と技能を修得することを目的とする。 ① フランス語圏に関する発展的知識を修得する。 ② 図書館やインターネットなどで適切な資料や情報を収集する能力を身に付ける。 ③ フランス語の資料…"
+tags: []
+campus: ""
+term: ""
+period: "金3／Fri 3"
+course_type: "春学期／Spring"
+credits: 2
+year: "2025年度／2025 Academic Year 春学期／SPRING SEMESTER"
+main_instructor: "阿部 明日香"
+instructors: ["[]"]
+syllabus_url: "https://www.dokkyo.ac.jp/research/syllabus/2025/0103/0103_15179_ja_JP.html"
+license: "CC-BY-4.0"
+version:
+  created_at: "2025-10-29T12:47:51.635451Z"
+  updated_at: "2025-10-29T12:47:51.635451Z"
+---
+この授業はフランス語圏の研究に取り組んでいくための基礎知識と技能を修得することを目的とする。 ① フランス語圏に関する発展的知識を修得する。 ② 図書館やインターネットなどで適切な資料や情報を収集する能力を身に付ける。 ③ フランス語の資料・文献を活用する。 ④ 口頭発表、ディスカッションおよびレポート作成の技法を修得する。 この科目はフランス語学科の学位授与方針（DP）記載の学位の裏付けとなる能力のうち1および7の養成を目的としている。また、教育課程の編成・実施方針（CP）においては専門演習への導入科目として位置付けられる。
