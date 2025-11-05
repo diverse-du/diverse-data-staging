@@ -97,6 +97,20 @@ async function main() {
       id: String(fm.id),
       type: String(fm.type),
       title: String(fm.title),
+      // Course-specific metadata
+      department: fm.department ? String(fm.department) : null,
+      course_code: fm.course_code ? String(fm.course_code) : null,
+      course_title: fm.course_title ? String(fm.course_title) : null,
+      period: fm.period ? String(fm.period) : null,
+      term: fm.term ? String(fm.term) : null,
+      course_type: fm.course_type ? String(fm.course_type) : null,
+      credits: typeof fm.credits === "number" ? fm.credits : (typeof fm.credits === "string" ? Number.parseInt(fm.credits, 10) || null : null),
+      year: fm.year ? String(fm.year) : null,
+      main_instructor: fm.main_instructor ? String(fm.main_instructor) : null,
+      instructors: Array.isArray(fm.instructors)
+        ? fm.instructors.map((v) => String(v)).filter((v) => v && v !== "[]")
+        : (fm.instructors ? [String(fm.instructors)] : []),
+      syllabus_url: fm.syllabus_url ? String(fm.syllabus_url) : null,
       summary: fm.summary ? String(fm.summary) : null,
       tags: Array.isArray(fm.tags) ? fm.tags.map(String) : [],
       campus: fm.campus ? String(fm.campus) : null,
